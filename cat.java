@@ -11,5 +11,7 @@ public class Cat {
 
 	public void meow() {
 		System.out.print("meow");
+		System.out.print("meow1");
+		System.out.print("meow2");
 	}
 }
